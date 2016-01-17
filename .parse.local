@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Sleden": {
+      "applicationId": "F3e0QsTmOOmmN0K1icNiCLu8DZ4dnGG0Vqq25gXF"
+    },
+    "_default": {
+      "link": "Sleden"
+    }
+  }
+}
